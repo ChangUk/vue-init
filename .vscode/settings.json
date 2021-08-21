@@ -1,0 +1,11 @@
+{
+	"editor.tabSize": 4,
+	"editor.detectIndentation": true,
+	"editor.insertSpaces": false,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"editor.formatOnSave": true,
+	"editor.formatOnType": false,
+	"eslint.validate": ["javascript", "vue"]
+}
